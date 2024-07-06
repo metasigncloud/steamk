@@ -1,2 +1,2 @@
 # steamk
-steamk, test demo
+steamk, test demo.
